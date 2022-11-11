@@ -1,6 +1,6 @@
 # Projeto-site
 -Nome do Projeto:
-O projeto vai levar o nome de WIKI INDY,com a ideia de apresentar toadas as curiosidades e informaçoes da categoria,principalmente visando que no Brasil ela ainda não é tão popular,como o nome diz,uma wiki que fale todas as novidades e conte sobre a história da Indy desde seu desenvolvimento.
+O projeto vai levar o nome de WIKI INDY,com a ideia de apresentar todas as curiosidades e informaçoes da categoria,principalmente visando que no Brasil ela ainda não é tão popular,como o nome diz,uma wiki que fale todas as novidades e conte sobre a história da Indy desde seu desenvolvimento.
 
 -Ideia da interface:
 Uma ideia que possa fazer de uma forma simples,mostrar tudo sobre a categoria e contar com abas que possam contar com os relatos e experiencias dos fãs,junto com uma aba de atualizaçoes e historia da categoria.
