@@ -3,7 +3,7 @@
 O projeto vai levar o nome de WIKI INDY,com a ideia de apresentar todas as curiosidades e informaçoes da categoria,principalmente visando que no Brasil ela ainda não é tão popular,como o nome diz,uma wiki que fale todas as novidades e conte sobre a história da Indy desde seu desenvolvimento.
 
 -Ideia da interface:
-Uma ideia que possa fazer de uma forma simples,mostrar tudo sobre a categoria e contar com abas que possam contar com os relatos e experiencias dos fãs,junto com uma aba de atualizaçoes e historia da categoria.
+Uma ideia que possa fazer de uma forma simples,mostrar tudo sobre a categoria e contar com abas que possam contar com os relatos e experiencias dos fãs,junto com uma aba de atualizaçoes e historia da categoria.A ideia das cores,é reprensetar as cores usadas na fórmula indy.
 
 -Para que serve?
 Serve para informar os telespectadores sobre as atualizaçoes da formula indy e contar mais sobre a categoria para pessoas que não conhecem muito ou estão se interessando pelo assunto agora,mostrar em tempo real os acontecimentos e fazer com que as pessoas possam interagir entre si para espalhar conhecimento.
